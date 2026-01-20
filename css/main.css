@@ -1,4 +1,10 @@
 .crashout-pic{
-    width: 200px;
+    width: 800px;
 }
 /* Place CSS styles here */
+body{
+    background-color: #ffd1d9;
+}
+div{
+    text-align: center;
+}
