@@ -3,6 +3,9 @@
     align-items: center;
     border-radius: 20px;
 }
+.theplotthickens {
+    border-radius: 20px;
+}
 /* Place CSS styles here */
 html {
     background-color: #ffd1d9;
@@ -12,9 +15,6 @@ html {
     padding: 10px;
     margin: 10px;
     color: #005a5a;
-}
-Html {
-    background-color: #ffd1d9;
 }
 a { 
     text-align: center;
