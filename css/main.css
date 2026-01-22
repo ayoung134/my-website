@@ -2,7 +2,9 @@
     width: 600px;
     align-items: center;
     border-radius: 20px;
-}
+    border-color: #ad7af4;
+    border-style: double;
+    }
 .theplotthickens {
     border-radius: 20px;
 }
