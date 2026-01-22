@@ -1,10 +1,32 @@
 .crashout-pic{
     width: 800px;
+    align-items: center;
+    border-radius: 20px;
 }
 /* Place CSS styles here */
-body{
+html {
+    background-color: #ffd1d9;
+    text-align: center;
+    border: #ad7af4 4px solid;
+        border-radius: 20px;
+    padding: 10px;
+    margin: 10px;
+    color: #005a5a;
+}
+Html {
     background-color: #ffd1d9;
 }
-div{
+a { 
     text-align: center;
+}
+.container, .container2 {
+    background-color: #29f280;
+        border-radius: 20cap;
+    padding: 10px;
+    margin: 10px;
+    align-items: center;
+    color: #005a5a;
+}
+.type1 {
+    color: #005a5a;
 }
