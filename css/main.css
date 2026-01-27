@@ -7,13 +7,14 @@
     }
 .theplotthickens {
     border-radius: 20px;
+    width: 100%;
 }
 /* Place CSS styles here */
 html {
     background-color: #ffd1d9;
     text-align: center;
     border: #ad7af4 4px solid;
-        border-radius: 20px;
+border-radius: 20px;
     padding: 10px;
     margin: 10px;
     color: #005a5a;
@@ -21,14 +22,44 @@ html {
 a { 
     text-align: center;
 }
+
 .container, .container2 {
     background-color: #29f280;
-        border-radius: 20cap;
+    border-radius: 20cap;
     padding: 10px;
     margin: 10px;
     align-items: center;
     color: #005a5a;
 }
+
+p{
+    font-family: Helvetica, sans-serif;
+    text-align: center;
+
+}
+
+h1, h2, h3, h4, h5, h6{
+    color: #fff200;
+}
+
+.whimsy{
+    border-color: #cf5166;  
+    align-items: center;
+}
+
+a:hover{
+  color: #ad7af4;  
+}
+
+a:focus{
+    color: #d4ebff;
+    border-radius: 20px;
+}
+
+a:visited{
+    color: #00adad;
+}
+
 .type1 {
     color: #005a5a;
 }
