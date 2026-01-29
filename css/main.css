@@ -3,7 +3,6 @@
     align-items: center;
     border-radius: 20px;
     border-color: #ad7af4;
-    border-style: double;
     }
 .theplotthickens {
     border-radius: 20px;
@@ -33,13 +32,17 @@ a {
 }
 
 p{
-    font-family: Helvetica, sans-serif;
+    font-family: Arial, sans-serif;
     text-align: center;
+    font-size: 18px;
+    color: #3a3aff
 
 }
 
 h1, h2, h3, h4, h5, h6{
     color: #fff200;
+    text-transform: uppercase;
+    text-align: left;
 }
 
 .whimsy{
